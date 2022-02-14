@@ -1,0 +1,1 @@
+This repo was made to aid my intuition of SVD. The code here is (pretty much entirely) taken from this excellent [blogpost](https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d) on SVD!
